@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Create NodeJS http server.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshikverma/Nodejs_session10_assignment1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshikverma/Nodejs_session10_assignment1/issues"
+  },
+  "homepage": "https://github.com/toshikverma/Nodejs_session10_assignment1#readme"
+}
